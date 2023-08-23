@@ -1,4 +1,4 @@
-# TravelingSalesperson - Solutions to the traveling salesperson problem
+# traveling-salesperson: solutions to the traveling salesperson problem
 
 -----------
 
